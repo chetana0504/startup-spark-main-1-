@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+<p align="center">
+  <a href="https://github.com/lucide-icons/lucide">
+    <img src="https://lucide.dev/package-logos/lucide-react.svg" alt="Lucide icon library for React applications." width="540">
+  </a>
+</p>
 
-## Project info
+<p align="center">
+Lucide icon library for React applications.
+</p>
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+<div align="center">
 
-## How can I edit this code?
+  [![npm](https://img.shields.io/npm/v/lucide-react?color=blue)](https://www.npmjs.com/package/lucide-react)
+  ![NPM Downloads](https://img.shields.io/npm/dw/lucide-react)
+  [![GitHub](https://img.shields.io/github/license/lucide-icons/lucide)](https://lucide.dev/license)
+</div>
 
-There are several ways of editing your application.
+<p align="center">
+  <a href="https://lucide.dev/guide/">About</a>
+  ·
+  <a href="https://lucide.dev/icons/">Icons</a>
+  ·
+  <a href="https://lucide.dev/guide/packages/lucide-react">Documentation</a>
+  ·
+  <a href="https://lucide.dev/license">License</a>
+</p>
 
-**Use Lovable**
+# Lucide React
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Implementation of the lucide icon library for React applications.
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+## Installation
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+pnpm add lucide-react
 ```
 
-**Edit a file directly in GitHub**
+```sh
+npm install lucide-react
+```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```sh
+yarn add lucide-react
+```
 
-**Use GitHub Codespaces**
+## Documentation
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+For full documentation, visit [lucide.dev](https://lucide.dev/guide/packages/lucide-react)
 
-## What technologies are used for this project?
+## Community
 
-This project is built with:
+Join the [Discord server](https://discord.gg/EH6nSts) to chat with the maintainers and other users.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## License
 
-## How can I deploy this project?
+Lucide is licensed under the ISC license. See [LICENSE](https://lucide.dev/license).
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## Sponsors
 
-## Can I connect a custom domain to my Lovable project?
+<a href="https://vercel.com?utm_source=lucide&utm_campaign=oss">
+  <img src="https://lucide.dev/vercel.svg" alt="Powered by Vercel" width="200" />
+</a>
 
-Yes, you can!
+<a href="https://www.digitalocean.com/?refcode=b0877a2caebd&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://lucide.dev/digitalocean.svg" width="200" alt="DigitalOcean Referral Badge" /></a>
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+### Awesome backers 🍺
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+<a href="https://www.scipress.io?utm_source=lucide"><img src="https://lucide.dev/sponsors/scipress.svg" width="180" alt="Scipress sponsor badge" /></a>
+<a href="https://github.com/pdfme/pdfme"><img src="https://lucide.dev/sponsors/pdfme.svg" width="180" alt="pdfme sponsor badge" /></a>
